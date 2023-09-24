@@ -1,4 +1,4 @@
-# Machine Learning Projects Repository
+# Machine Learning Projects 
 
 This repository contains a collection of machine learning projects, including a Kaggle competition project, that I have worked on. Each project focuses on solving different machine learning problems and demonstrates various techniques, algorithms, and tools used in the field of data science.
 
