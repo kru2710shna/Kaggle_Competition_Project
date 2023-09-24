@@ -6,7 +6,7 @@ This repository contains a collection of machine learning projects, including a 
 
 1. **Spaceship Titanic: Predict which passengers are transported to an alternate dimension**
    - Kaggle Competition: [Spaceship Titanic](https://www.kaggle.com/c/spaceship-titanic)
-   - Description: In this Kaggle competition, the goal is to predict which passengers on the Spaceship Titanic are transported to an alternate dimension. It involves exploring the Titanic dataset, performing data preprocessing, feature engineering, and building predictive models.
+   - Description: In this Kaggle competition, the goal is to predict which passengers on the Spaceship Titanic are transported to an alternate dimension. [DESCRIPTION](file:///Users/krushna/Kaggle/Spaceship-Titanic.html)
 
    - Repository: [Spaceship-Titanic](link-to-repo)
 
