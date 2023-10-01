@@ -9,6 +9,8 @@ This repository contains a collection of machine learning projects, including a 
    - Description: In this Kaggle competition, the goal is to predict which passengers on the Spaceship Titanic are transported to an alternate dimension.
 
    - Repository: [Spaceship-Titanic](https://github.com/kru2710shna/Kaggle_Competition_Project/tree/main/Spaceship_Titanic)
+   - Repository: [NFL-Dataset](https://github.com/kru2710shna/Kaggle_Competition_Project/tree/main/NFL%20Play-by-Play%20Data)
+   - Repository: [Housing Prices ](https://github.com/kru2710shna/Kaggle_Competition_Project/tree/main/House%20Prices%20-%20Advanced%20Regression%20Techniques)
 
    - Blog Post: [Read my detailed blog post about this project](link-to-blog-post)
 
