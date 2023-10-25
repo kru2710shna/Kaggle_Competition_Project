@@ -1,0 +1,25 @@
+# Searching for the Higgs Boson
+
+## Introduction
+
+The Standard Model is a fundamental theory in particle physics that describes some of the most basic forces of nature. One of its essential components is the Higgs boson, which is responsible for accounting for the mass of matter. While first theorized in 1964, the Higgs boson remained elusive for nearly half a century. It was only in 2012 that experimental observation of the Higgs boson was achieved at the Large Hadron Collider (LHC). These experiments generated vast amounts of data, amounting to millions of gigabytes.
+
+Handling large and complex datasets like these is where deep learning techniques shine. In this notebook, we will construct a Wide and Deep neural network to determine whether a detected particle collision produced a Higgs boson or not.
+
+## Collision Data
+
+High-energy proton collisions can yield new particles, such as the Higgs boson. These particles are incredibly short-lived and cannot be directly observed. Instead, the presence of a new particle is inferred from the behavior of its decay products.
+
+The Higgs dataset comprises 21 "low-level" features of these decay products and an additional 7 "high-level" features derived from them.
+
+## Wide and Deep Neural Networks
+
+A Wide and Deep neural network simultaneously trains a linear layer alongside a deep stack of densely connected layers. These networks are particularly effective when dealing with tabular datasets[^1].
+
+Given the substantial size of both the dataset and the model used in this project, training can be accelerated using Kaggle's Tensor Processing Units (TPUs), which are well-suited for handling extensive workloads.
+
+[^1]: Reference to the paper by Heng-Tze Cheng et al., "Wide & Deep Learning for Recommender Systems."
+
+---
+
+**Note:** This README provides a brief overview of the project. For detailed information, code, and results, please refer to the provided notebook or the project files.
